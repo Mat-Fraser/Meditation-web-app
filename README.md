@@ -15,3 +15,7 @@ Can used to relax and metal peace.
 - Meditation with sea wave and birds sound for calmness.
 ![5](https://user-images.githubusercontent.com/86045021/174450474-d5c48031-b0ad-43dc-97d9-19bbc48166ed.JPG)
 
+### Technology
+- **HTML 5**
+- **CSS 3**
+- **JavaScript**
