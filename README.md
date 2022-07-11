@@ -1,10 +1,8 @@
-
 #  Meditation-web-app
 
 Its is a web based application for meditation purpose.
 
 ## Description
-
 Its is a web based application for meditation where you got two buttons to switch to toggle between two of the given types of meditation sounds with there respective backgrounds, on a click of a button we can switch between those modes. And given with 2,5 and 10 mins as a meditation timer,so you can measure time for your meditation.
 Can used to relax and metal peace.
 
